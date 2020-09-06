@@ -6,7 +6,7 @@ description: applying bert for text classification tasks
 categories: [nlp]
 image: images/bert/nlp_title.png
 title: Transfer Learning with BERT
-summary: what is nlp taks 
+
 ---
 
 There has been paradigm shift in the field of Natural Langauge Processing (NLP). Various Pre-trained language models like BERT are achieving state of the art results for NLP tasks like  text classifcation, Name entity recognition and Question Answering.
