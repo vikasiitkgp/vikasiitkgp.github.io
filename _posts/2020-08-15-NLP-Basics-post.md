@@ -4,7 +4,7 @@ layout: post
 description: NLP tasks and learning materials
 categories: [nlp]
 image: images/nlp_title.png
-title: Overview of NLP
+title: Overview of Natural Language Processing (NLP)
 ---
 
 This first post provides the overview of Natural Language Processing (NLP).
